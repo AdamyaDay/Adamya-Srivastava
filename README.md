@@ -21,14 +21,6 @@ My goal is to become a strong developer with a solid portfolio. 🚀
 
 ---
 
-## 📊 GitHub Stats & Activity  
-![Contribution Streak](https://streak-stats.demolab.com/?user=AdamyDay&theme=dark&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdamyDay&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamyDay&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## 🧰 Skills & Tools  
 **Languages:**  
 - Python  
